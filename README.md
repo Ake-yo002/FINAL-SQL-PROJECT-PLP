@@ -77,8 +77,8 @@ Foreign key relationships appear in "Foreign Keys"
 
 
    📊 Database Schema (ERD)
-
-   ![library sql](https://github.com/user-attachments/assets/678dc4ad-6e36-4b13-a788-72fd15243bf5)
+   
+![ERD](https://github.com/user-attachments/assets/4a51f7b8-8602-44db-b11c-cf1378fd573c)
 
 
 
